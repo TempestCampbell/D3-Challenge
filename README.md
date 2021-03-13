@@ -1,1 +1,3 @@
 # D3-Challenge
+
+Analyzing the current trends shaping people's lives, as well as creating charts, graphs, and interactive elements to help readers understand findings by looking into a series of feature stories about the health risks facing particular demographics. Sifting through information from the [U.S. Census Bureau and the Behavioral Risk Factor Surveillance System](https://data.census.gov/cedsci/). The data set is based on 2014 ACS 1-year estimates from the US Census Bureau, which includes data on rates of income, obesity, poverty, etc. by state. MOE stands for "margin of error." I focused on poverty and healthcare.
