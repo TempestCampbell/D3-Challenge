@@ -121,11 +121,9 @@ d3.csv("assets/data/data.csv")
       .attr("text-anchor", "middle")
       .attr("fill", "white");
 
-    // Hover Rules
+    // Hover
     // .on("mouseover", function (d) {
-    //   // Show the tooltip
     //   toolTip.show(d);
-    //   // Highlight the state circle's border
     //   d3.select("." + d.abbr).style("stroke", "#323232");
     // })
     // .on("mouseout", function (d) {
